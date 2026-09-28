@@ -1,0 +1,9 @@
+rootProject.name = 'my-microservice'
+
+include 'common'
+include 'eureka-server'
+include 'product-service'
+include 'promotion-service'
+include 'inventory-service'
+include 'order-service'
+include 'email-service'
